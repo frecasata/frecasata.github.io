@@ -1,0 +1,4 @@
+#Thu Jun 22 16:06:43 PST 2023
+base.0=C\:\\Users\\Neo Recasata\\Documents\\Dev\\flutter_web_personal_portfolio\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
